@@ -9,4 +9,26 @@ text-color: #FFF
 
 As long as you live, keep learning how to live.
 
+-- ds.h1: This is `h1` header
+
+Header title can be passed in the caption area.
+You can also add multiline body when using the header components.
+
+-- ds.h2: This is `h2` header
+
+This is second level of header. Similarly `doc-site` has h3.
+
+-- ds.markdown:
+
+`fastn` supports `markdown` syntax. 
+
+The `-` gets convert into unordered list:
+
+- This is a **bold** text.
+- This is an *italic* text.
+- This is a [link](https://fastn.com/) text.
+- This is a `quote` text.
+
+
 -- end: ds.page
+
