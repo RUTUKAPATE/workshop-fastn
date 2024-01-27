@@ -1,6 +1,6 @@
 -- import: fastn as f
 
--- f.package: workshop-fastn
+-- f.package: rutukapate.github.io/workshop-fastn
 
 -- f.dependency: fastn-community.github.io/bling
 
