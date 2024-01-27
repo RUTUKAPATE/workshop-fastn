@@ -37,8 +37,8 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "70E68D933A690EB0BB37CA2EE52F45F7EF583215BFCC8D21AE5B4AB540F8B07A",
-      "size": 1297
+      "checksum": "E9265CF6DE9D8AC6604552F39FFDBEE98C1DC3CA0949865E19E1FDEB5CAF0368",
+      "size": 1265
     },
     "new-page.ftd": {
       "name": "new-page.ftd",
@@ -67,5 +67,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/rutukapate/workshop-fastn/zip/refs/heads/main",
-  "checksum": "8574D1BE31F95AB286F3286C6F3DF07722FA7BF43D56B4509E0EBD4037B66AFF"
+  "checksum": "3B8D0B038A087D7A8582D6E80F09E25924B742107BA8D6D62EBDA3A997A3069D"
 }
