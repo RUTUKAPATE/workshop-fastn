@@ -1,6 +1,6 @@
 -- import: fastn as f
 
--- f.package: expander
+-- f.package: workshop-fastn
 
 -- f.dependency: fastn-community.github.io/bling
 
