@@ -37,13 +37,13 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "80FC70EE8A45BDAF3C06BB47505A597539C7D905717447E9D1179125DEF4A2DC",
-      "size": 1266
+      "checksum": "CFC60C66B7890FCBA56D260C1F7CA0BF2B5E56BC2B0B7226FA7DE84230657004",
+      "size": 1256
     },
     "new-page.ftd": {
       "name": "new-page.ftd",
-      "checksum": "863C1C62935D038E99A2AF8D7391A2172465D3BF547A69C441EBADBAE9B02A96",
-      "size": 882
+      "checksum": "B0911C2FA72384F3D1A727464C376DB453BEA4B97B12D838F20CE43F4C06996A",
+      "size": 966
     },
     "static/img-dark.jpg": {
       "name": "static/img-dark.jpg",
@@ -67,5 +67,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/rutukapate/workshop-fastn/zip/refs/heads/main",
-  "checksum": "4CA696C2EF14DDB7AFAD00FC00A0088089152CC1D13A87A6AC0A4A213EB0DF5C"
+  "checksum": "361335FC4A7C3D0B00046B6DD3BE11C9CEDAC3E2872742E213FFE2446A6F0C74"
 }
