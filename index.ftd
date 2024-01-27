@@ -1,7 +1,21 @@
 -- import: fastn-community.github.io/bling/quote
 
+-- import: rutukapate.github.io/workshop-fastn/assets
+
+-- import: rutukapate.github.io/workshop-fastn/new-page
+
 -- ds.page: Page Title
 site-name: My Site
+site-logo: $assets.files.static.logo.svg
+logo-width: 40
+
+-- ds.image:
+src: https://upload.wikimedia.org/wikipedia/commons/c/ca/A_Beautiful_Scenery.jpg
+width: fill-container
+
+-- ds.markdown:
+
+Go to the [new page](/new-page/).
 
 -- quote.background-image: Lucius Annaeus Seneca
 quote-background: https://e0.pxfuel.com/wallpapers/491/601/desktop-wallpaper-ultra-original-and-background-it-ultra.jpg
@@ -14,9 +28,16 @@ As long as you live, keep learning how to live.
 Header title can be passed in the caption area.
 You can also add multiline body when using the header components.
 
+-- ds.image:
+src: $assets.files.static.img.jpg
+width: fill-container
+
 -- ds.h2: This is `h2` header
 
 This is second level of header. Similarly `doc-site` has h3.
+
+-- ds.youtube:
+v: O2TL9Qi0ZaBnRmJq_yM7y_Suaio
 
 -- ds.markdown:
 
@@ -28,6 +49,7 @@ The `-` gets convert into unordered list:
 - This is an *italic* text.
 - This is a [link](https://fastn.com/) text.
 - This is a `quote` text.
+
 
 
 -- end: ds.page
