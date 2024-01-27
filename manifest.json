@@ -37,8 +37,8 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "9E36F24D0FFA5890E27645973DA5F8DAEE580EDF224E02DFE37CA17694813CA7",
-      "size": 344
+      "checksum": "1091C022F780D870B5853EEE098E8DD9B1778E6CE03D5DF200333A5FB61B5627",
+      "size": 811
     },
     "vercel.json": {
       "name": "vercel.json",
@@ -47,5 +47,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/rutukapate/workshop-fastn/zip/refs/heads/main",
-  "checksum": "08D24FF1F3152363462C2BD0133325B0DBF1DB9AF2753E2DE523BE4754630E24"
+  "checksum": "E78B6FE31E01CCD511E76D51DC309A12C7B297D69EBF3C309A95431C1BCB9D09"
 }
