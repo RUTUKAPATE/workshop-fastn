@@ -2,8 +2,8 @@
   "files": {
     "FASTN.ftd": {
       "name": "FASTN.ftd",
-      "checksum": "9B468B500ADA9F6637530FC15C3AB6234117AF5FF7E6099422B201C5EAAA4F67",
-      "size": 236
+      "checksum": "6AE0CE94315D4ADFABBF7FB2FBDDD9F0CE351DAE63296E407200D6478F3EA62B",
+      "size": 296
     },
     "FASTN/ds.ftd": {
       "name": "FASTN/ds.ftd",
@@ -67,5 +67,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/rutukapate/workshop-fastn/zip/refs/heads/main",
-  "checksum": "3B8D0B038A087D7A8582D6E80F09E25924B742107BA8D6D62EBDA3A997A3069D"
+  "checksum": "CD36540381794B4B13A171365BF30870B7D740E4D1C9DBDB22A4498A81DC3A7A"
 }
