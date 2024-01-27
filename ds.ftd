@@ -1,5 +1,5 @@
 -- import: rutukapate.github.io/workshop-fastn/assets
--- import: fastn-community.github.io/doc-site
+
 export: markdown,h0,h1,h2,h3,image,youtube
 
 ;; Exporting lets you share component definitions, variables, and elements from one
