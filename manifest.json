@@ -37,8 +37,28 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "1091C022F780D870B5853EEE098E8DD9B1778E6CE03D5DF200333A5FB61B5627",
-      "size": 811
+      "checksum": "80FC70EE8A45BDAF3C06BB47505A597539C7D905717447E9D1179125DEF4A2DC",
+      "size": 1266
+    },
+    "new-page.ftd": {
+      "name": "new-page.ftd",
+      "checksum": "863C1C62935D038E99A2AF8D7391A2172465D3BF547A69C441EBADBAE9B02A96",
+      "size": 882
+    },
+    "static/img-dark.jpg": {
+      "name": "static/img-dark.jpg",
+      "checksum": "74C8A9454ED78CB76B1BAE2861113D38D0A4A52FF23AA1C9ADA0C4E22DE6781B",
+      "size": 598276
+    },
+    "static/img.jpg": {
+      "name": "static/img.jpg",
+      "checksum": "0986EAB71A7D5EE30408D3DC4D4B235721F9F4F4F4134327E78C070FF37DDA21",
+      "size": 5184668
+    },
+    "static/logo.svg": {
+      "name": "static/logo.svg",
+      "checksum": "72FA9474C7C133ED7FF6B1AAEE1E8CC2C6F9A193182E8572BC2E97A795DEA009",
+      "size": 972
     },
     "vercel.json": {
       "name": "vercel.json",
@@ -47,5 +67,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/rutukapate/workshop-fastn/zip/refs/heads/main",
-  "checksum": "E78B6FE31E01CCD511E76D51DC309A12C7B297D69EBF3C309A95431C1BCB9D09"
+  "checksum": "4CA696C2EF14DDB7AFAD00FC00A0088089152CC1D13A87A6AC0A4A213EB0DF5C"
 }
