@@ -2,8 +2,8 @@
   "files": {
     "FASTN.ftd": {
       "name": "FASTN.ftd",
-      "checksum": "6AE0CE94315D4ADFABBF7FB2FBDDD9F0CE351DAE63296E407200D6478F3EA62B",
-      "size": 296
+      "checksum": "D88CC0067723252CBFE3D4C9E27147ED11BD9C46B7791B75C132B899D2E32005",
+      "size": 480
     },
     "FASTN/ds.ftd": {
       "name": "FASTN/ds.ftd",
@@ -40,6 +40,16 @@
       "checksum": "E9265CF6DE9D8AC6604552F39FFDBEE98C1DC3CA0949865E19E1FDEB5CAF0368",
       "size": 1265
     },
+    "more-pages/a.ftd": {
+      "name": "more-pages/a.ftd",
+      "checksum": "D0E61B36AC48BF5E34B29447F848F8F51FC13A0B04C33562BA2A8F886166D26D",
+      "size": 65
+    },
+    "more-pages/b.ftd": {
+      "name": "more-pages/b.ftd",
+      "checksum": "6E7339F877AA9206256B37E1A223454C86AD48E50E2E1F74537792BEE9DF02FC",
+      "size": 65
+    },
     "new-page.ftd": {
       "name": "new-page.ftd",
       "checksum": "E4F177FE63AA41C082714C8FB5C5D08BEE80C98936B9FA53C371B1E12176FE39",
@@ -67,5 +77,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/rutukapate/workshop-fastn/zip/refs/heads/main",
-  "checksum": "CD36540381794B4B13A171365BF30870B7D740E4D1C9DBDB22A4498A81DC3A7A"
+  "checksum": "8E2956B2D6680CA635CF7FEF79172E5CE992EF01601841D6ED4B0D58A2BB32AF"
 }
