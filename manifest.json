@@ -2,8 +2,8 @@
   "files": {
     "FASTN.ftd": {
       "name": "FASTN.ftd",
-      "checksum": "E386D7FF085CC6D18D29BF9E115E0AAFE475A8C3928C08CF720D71E023C8DB82",
-      "size": 619
+      "checksum": "9B468B500ADA9F6637530FC15C3AB6234117AF5FF7E6099422B201C5EAAA4F67",
+      "size": 236
     },
     "FASTN/ds.ftd": {
       "name": "FASTN/ds.ftd",
@@ -37,13 +37,8 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "32532606DDF89B56B42BA173EEAC7F7E9006DEEC07ABF10F6ABE246DC0EC1482",
-      "size": 1190
-    },
-    "sidebar.ftd": {
-      "name": "sidebar.ftd",
-      "checksum": "98EA5E5D5540AA8CCFA6C4ABEE6C2D476F6E1310B6B7E8978E81F62368EFA035",
-      "size": 1281
+      "checksum": "9E36F24D0FFA5890E27645973DA5F8DAEE580EDF224E02DFE37CA17694813CA7",
+      "size": 344
     },
     "vercel.json": {
       "name": "vercel.json",
@@ -52,5 +47,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/rutukapate/workshop-fastn/zip/refs/heads/main",
-  "checksum": "35F2DE3BF02ACF820E68AF0A9345CFB96ABBEFDDC6C3EC195834EF661DF7319F"
+  "checksum": "08D24FF1F3152363462C2BD0133325B0DBF1DB9AF2753E2DE523BE4754630E24"
 }

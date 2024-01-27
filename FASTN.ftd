@@ -1,19 +1,9 @@
--- import: fastn
+-- import: fastn as f
 
--- fastn.package: rutukapate.github.io/workshop-fastn
-favicon: /-/rutukapate.github.io/workshop-fastn/favicon.ico
+-- f.package: rutukapate.github.io/workshop-fastn
 
--- fastn.dependency: fastn-community.github.io/doc-site as doc-site
--- fastn.dependency: fastn-community.github.io/footer
--- fastn.dependency: fastn-community.github.io/roboto-typography
--- fastn.dependency: fastn-community.github.io/dark-flame-cs
+-- f.dependency: fastn-community.github.io/bling
 
--- fastn.auto-import: rutukapate.github.io/workshop-fastn/FASTN/ds
--- fastn.auto-import: rutukapate.github.io/workshop-fastn/assets
--- fastn.auto-import: doc-site
+-- f.dependency: fastn-community.github.io/doc-site
 
--- fastn.sitemap:
-
-# Home: index.html
-
-- Right Sidebar Sample: /sidebar/
+-- f.auto-import: fastn-community.github.io/doc-site as ds
