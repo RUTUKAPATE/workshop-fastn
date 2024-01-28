@@ -4,13 +4,15 @@
 
 -- f.dependency: fastn-community.github.io/bling
 
--- f.dependency: fastn-community.github.io/doc-site
+;;-- f.dependency: fastn-community.github.io/doc-site
 
--- f.auto-import: fastn-community.github.io/doc-site as ds
+;;-- f.auto-import: fastn-community.github.io/doc-site as ds
 
-;;-- f.auto-import: rutukapate.github.io/workshop-fastn/ds
+-- f.dependency: fastn-community.github.io/midnight-rush
 
--- fastn.sitemap:
+-- f.auto-import: rutukapate.github.io/workshop-fastn/ds
+
+-- f.sitemap:
 
 # Home: /
 
