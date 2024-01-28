@@ -8,21 +8,24 @@
 
 ;;-- f.auto-import: fastn-community.github.io/doc-site as ds
 
--- f.dependency: fastn-community.github.io/midnight-rush
+-- f.dependency: fastn-community.github.io/midnight-rush as ds
 
 ;;-- f.auto-import: fastn-community.github.io/midnight-rush as doc-site
 
 -- f.auto-import: rutukapate.github.io/workshop-fastn/ds
+-- f.auto-import: rutukapate.github.io/workshop-fastn
+-- f.auto-import: ds
+-- f.auto-import: ds/common
 
-/-- f.sitemap:
+-- f.sitemap:
 
-;;# Home: /
+# Home: /
 
-;;## Intro: /
+## Intro: /
 
-;;- My Index page: /
-;;- `a` page: /workshop-fastn/more-pages/a/
+- My Index page: /
+- `a` page: /workshop-fastn/more-pages/a/
 
-;;## Subsec B: /workshop-fastn/more-pages/b/
+## Subsec B: /workshop-fastn/more-pages/b/
 
-;;# Other: /workshop-fastn/new-page/
+# Other: /workshop-fastn/new-page/

@@ -1,5 +1,6 @@
 -- import: rutukapate.github.io/workshop-fastn/assets
-
+-- import: fastn-community.github.io/footer
+-- import: doc-site
 -- import: fastn-community.github.io/midnight-rush as doc-site
 export: markdown,h0,h1,h2,h3,image,youtube
 
