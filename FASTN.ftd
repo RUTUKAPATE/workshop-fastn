@@ -14,15 +14,15 @@
 
 -- f.auto-import: rutukapate.github.io/workshop-fastn/ds
 
--- f.sitemap:
+/-- f.sitemap:
 
-# Home: /
+;;# Home: /
 
-## Intro: /
+;;## Intro: /
 
-- My Index page: /
-- `a` page: /workshop-fastn/more-pages/a/
+;;- My Index page: /
+;;- `a` page: /workshop-fastn/more-pages/a/
 
-## Subsec B: /workshop-fastn/more-pages/b/
+;;## Subsec B: /workshop-fastn/more-pages/b/
 
-# Other: /workshop-fastn/new-page/
+;;# Other: /workshop-fastn/new-page/
